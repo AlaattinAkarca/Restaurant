@@ -5,4 +5,4 @@
 
 <h2> Ekran Goruntusu </h2>
 
-![]{restaurant.gif}
+![](restaurant.gif)
